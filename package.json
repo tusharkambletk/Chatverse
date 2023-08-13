@@ -8,9 +8,6 @@
     "server": "nodemon backend/server.js",
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "engines": {
-  "node": ">=14.20.1"
-},
   "author": "Tushar Kamble",
   "license": "ISC",
   "dependencies": {
